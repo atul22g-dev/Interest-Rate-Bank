@@ -1,0 +1,18 @@
+:root {
+  /* Dark theme variables */
+  --bg-primary: #121212;
+  --bg-secondary: #1e1e1e;
+  --bg-tertiary: #2d2d2d;
+  --text-primary: #e0e0e0;
+  --text-secondary: #a0a0a0;
+  --accent-color: #4285F4;
+  --accent-hover: #3367D6;
+  --border-color: #333;
+  --input-bg: #2d2d2d;
+  --input-border: #444;
+  --input-focus-border: #4285F4;
+  --shadow-color: rgba(0, 0, 0, 0.3);
+  --success-color: #4CAF50;
+  --warning-color: #FF9800;
+  --error-color: #F44336;
+}
