@@ -1,5 +1,5 @@
 {
-  "name": "package.json",
+  "name": "simple-interest-calculator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
